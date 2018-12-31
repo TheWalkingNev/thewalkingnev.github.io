@@ -1,3 +1,3 @@
 # thewalkingnev.github.io
 
-This website is a personnal project for learning how to code HTML, CSS, JAVASCRIPT, RUBY ON RAILS.
+Ce repo GitHub est un projet personnel pour apprendre comment coder en HTML, CSS, JAVASCRIPT, RUBY ON RAILS.
